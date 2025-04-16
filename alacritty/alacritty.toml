@@ -1,5 +1,5 @@
 [font]
-    size = 18.0
+    size = 22.0
 
     [font.bold]
         family = "FiraCode Nerd Font"
@@ -27,5 +27,5 @@
 
 [window]
   decorations = "None"
-  opacity = 0.75
+  opacity = 0.9
 
